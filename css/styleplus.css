@@ -23,6 +23,14 @@ h4.comment {
     padding: 0 0 10px 0;
 }
 
+div#about_detail div.vision div a.read_more{
+    text-decoration: underline
+}
+
+a.ReadMore {
+    text-decoration: underline
+}
+
 h4.about_text{
     font-size: 26px;
     padding: 0 0 0px 0;
